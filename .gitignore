@@ -2,6 +2,7 @@
 *.txt
 *.[oa]
 *~
+/PHP
 /JAVA
 /html5_css3_js
 *.pdf
