@@ -1,0 +1,97 @@
+body
+{
+	background-image: url('imag/background.jpg');
+	background-color: silver;
+	/*background-attachment: fixed;*/
+	font-family: cantarell;
+	color: #000000;
+}
+
+#cuerpo
+{
+	text-align: center;
+	width: 50%;
+	height: 700px;
+	margin: 20% 0% 0% 50%;
+}
+
+.twitter-timeline{
+
+	float: left;
+}
+
+#contenido
+{
+	/*margin-left: 560px ;
+	padding: 20px,10px;*/
+	float: center;
+	width:60%;
+	height: 100%;
+	background-color: gray;
+	border-radius: 15px;
+}
+
+::selection{
+	background-color: purple;
+}
+
+#publicidad
+{
+	/*margin-top: -700px; 
+	margin-right: 10px;
+	margin-left: 100px;*/
+	width: 30%;
+	height: 50%;
+	background-color: purple;
+	border-radius: 15px;
+	float: right;
+}
+
+
+nav
+{
+
+	background-image: url("/home/raymemrf/Dropbox/PROGRAMACION/PAGINA WEB/PROBLEMAS PC/imag/boton1.png");
+	border-radius: 20px;
+	float: left;
+	width: 35%;
+	margin-top: 5%;
+	padding-right: 20px;
+
+}
+
+nav li
+{
+
+	float: left;
+	list-style: none; 
+	text-align: center;
+	margin-right: 2%;
+	padding: 1px 2px;	
+	/*background-image: url("/home/raymemrf/Dropbox/PROGRAMACION/PAGINA WEB/PROBLEMAS PC/imag/boton2.png");*/
+	margin-bottom: 5px;
+}
+
+nav li:hover
+{
+	/*background-image: url("imag/boton2.png");*/
+	text-shadow: 0px 0px 20px rgba (0,255,0,1);
+	text-shadow: 0px 0px 20px rgba (0,255,0,1);
+	text-shadow: 0px 0px 20px rgba (0,255,0,1);
+	/*color: #676368;
+	/*-moz-box-shadow: 0px 0px 40px #661772;
+	-webkit-box-shadow: 0px 0px 35px #661772;
+	box-shadow: 0px 0px 35px #661772;*/
+}
+
+a
+{
+	color: white ;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: white ;
+	text-decoration: none;
+}

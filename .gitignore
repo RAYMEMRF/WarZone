@@ -1,0 +1,16 @@
+#Ignorando archivos compilados, temporales, y deseados
+*.txt
+*.[oa]
+*~
+/JAVA
+/html5_css3_js
+*.pdf
+*.ini
+*.err
+*.out
+*.exe
+*.$$$
+*.cfg
+*.bak
+*.dsk
+*.lnk

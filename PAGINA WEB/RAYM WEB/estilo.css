@@ -1,0 +1,182 @@
+body
+{
+	BACKGROUND-IMAGE: URL('/run/media/raymemrf/BACKUP/PROGRAMACION/PROYECTOS/PAGINA WEB/RAYM WEB/circuito.jpg');
+	BACKGROUND-COLOR: SILVER;
+	BACKGROUND-ATTACHMENT: Fixed;
+	FONT-FAMILY: COMIC SANS MS;
+	COLOR: #000000;
+}
+
+
+
+
+#PrincipalBody
+{
+	margin: auto ;
+	width:960px;
+	height: 2200px;
+	background-color: gray;
+
+}
+
+#Cabecera
+{
+	height:200px;
+}
+#dt1
+{
+	padding-top:20px;
+	padding-left: 250px;
+}
+#dt
+{
+	BACKGROUND-COLOR: #98FB98;
+	height: 70px;
+	width: 470px;
+
+}
+
+#Title
+{
+	padding-left: 50px;
+	FONT-FAMILY: Boycott;	
+}
+
+#social
+{
+	float: left;
+	margin-left:400px;
+	margin-top: 30px;
+}
+
+a
+{
+	color: BLACK ;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: white ;
+	text-decoration: none;
+}
+
+
+#h
+{
+	background-color:#98FB98;
+	float: right;
+	width: 380px ;
+	margin-right: 250px;
+	padding-right: 20px;
+	
+}
+
+#menuH li
+{
+	list-style: none; 
+	float: right;
+	margin-right: 15px;
+	padding: 2px 3px;	
+	background-image: url("boton1.png");
+	margin-top: -10px;
+	margin-bottom: 5px;
+}
+
+#menuH li:hover
+{
+	background-image: url("boton2.png");
+}
+
+#mv
+{
+	background-color: #98FB98;
+	width: 180px;
+	height: 400px;
+	margin-left: 15px;
+	padding-top: 20px; 
+	padding-left: 15px;
+	margin-top:-40px;
+}
+
+#menuV
+{
+	border: outset 5px;
+	width: 155px;
+	
+}
+.t3
+{
+	background-image: url('boton1.png');
+	width: 135px ;
+	padding: 7px;
+	margin:2px;
+}
+
+.t3:hover
+{
+	background-image: url('boton2.png');
+	width: 135px;
+}
+
+#logos
+{
+	background-color: #800000 ;
+	width: 150px ;
+	height: 260px ;
+	
+	margin-left:15px;
+}
+
+#logos2
+{
+	margin-left: 20px ;
+	margin-top:10px;
+}
+
+#EC
+{
+	float:right;
+	background-color:#98FB98;
+	width: 300px;
+	height:310px;
+	margin-right:320px;
+	margin-bottom:30px;
+	padding:20px;
+}
+
+#inf2
+{
+	background-color: #AFEEEE;
+	width: 600px;
+	float: right;
+	margin-right: 150px;
+	padding: 20px;
+}
+
+#tabla2
+{
+	float:right;
+	margin-right: 155px;
+	margin-top:50px;
+	background-color:#87CEEB;
+	width:635px;
+	height:200px;
+}
+
+#tabla3
+{
+	margin-left: 160px ;
+	margin-top: 25px ;
+}
+
+.slider_container_2
+{
+float: right;
+margin: 0 0 0 -15px;
+padding: 15px;
+width: 700px;
+background: url(../img/bg.png) no-repeat 0 0;
+}
+
+

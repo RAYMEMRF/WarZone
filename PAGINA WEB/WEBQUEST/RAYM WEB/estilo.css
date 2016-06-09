@@ -1,0 +1,236 @@
+body
+{
+
+	BACKGROUND-IMAGE: URL('circuito.jpg');
+	BACKGROUND-COLOR: SILVER;
+	BACKGROUND-ATTACHMENT: Fixed;
+	FONT-FAMILY: ARIAL;
+	COLOR: #000000;
+}
+
+
+h1
+{
+
+	height: 40px ;
+ 
+}
+
+/*#PrincipalBody*/
+{
+	margin: auto ;
+	width:960px;
+	height: 2200px;
+	background-color: gray;
+	position: absolute;
+	z-index:-1;
+	opacity:0.5;
+
+}
+
+#Cabecera
+{
+	height:200px;
+}
+#dt1
+{
+	padding-top:20px;
+	padding-left: 250px;
+}
+#dt
+{
+	BACKGROUND-COLOR: #00008B;
+	height: 70px;
+	width: 470px;
+
+}
+
+#Title
+{
+	
+	height: 60px;
+	float:right;
+	margin-right: 50px;
+	FONT-FAMILY: ARIAL;
+	font-size:50px;	
+}
+
+#social
+{
+	float:left;
+	margin-left:40px;
+	margin-top: 5px;
+}
+
+#social2
+
+{
+
+	background-color: #87CEEB;
+	padding-left: 40px;
+	padding-top: 30px;
+	height: 130px;
+	width: 150px;
+	
+}
+
+#social li
+
+{
+
+	list-style-image: url("/home/canaima/Escritorio/WEBQUEST/RAYM WEB/img/fg.gif");
+	margin: -18px;
+
+
+}
+
+a
+{
+	color: white ;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #0000CD;
+	text-decoration: none;
+}
+
+
+#h
+{
+	background-color:#87CEEB;
+	float: right;
+	width: 380px ;
+	margin-right: 200px;
+	padding-right: 90px;
+	
+}
+
+#menuH li
+{
+	list-style: none; 
+	float: right;
+	margin-right: 15px;
+	padding: 2px 3px;	
+	background-image: url("boton1.png");
+	margin-top: -10px;
+	margin-bottom: 5px;
+}
+
+#menuH li:hover
+{
+	background-image: url("bt2.png");
+}
+
+#mv
+{
+	background-color: #87CEEB;
+	width: 233px;
+	height: 320px;
+	margin-left: 15px;
+	padding-top: 40px; 
+	padding-left: 15px;
+	margin-top:-20px;
+}
+
+#menuV
+{
+	border-style: solid 4px;
+	border-color: blue;	
+	width: 210px;
+	
+}
+.t3
+{
+	background-image: url('boton1.png');
+	width: 190px ;
+	padding: 7px;
+	margin:2px;
+}
+
+.t3:hover
+{
+	background-image: url('bt2.png');
+	width: 190px;
+}
+
+#logos
+{
+	background-color: #800000 ;
+	width: 150px ;
+	height: 260px ;
+	
+	margin-left:15px;
+}
+
+#logos2
+{
+	margin-left: 20px ;
+	margin-top:10px;
+}
+
+#EC
+{
+	float:right;
+	background-color:#87CEEB;
+	width: 300px;
+	height:310px;
+	margin-right:320px;
+	margin-bottom:40px;
+	padding:20px;
+}
+
+#inf2
+{
+	background-color: #87CEEB;
+	width: 600px;
+	float: right;
+	margin-right: 150px;
+	padding: 20px;
+}
+
+ 
+#contenidotelematica
+{
+
+	background-color: #87CEEB;
+	margin: auto;
+	height: 1500px;
+	width:800px;
+
+}
+ 
+ 
+#tabla2
+{
+	/*float:right;
+	margin-right: 155px;
+	margin-top:50px;*/
+	margin: auto ;
+	background-color:#87CEEB;
+	width:635px;
+	height:200px;
+}
+
+#tabla3
+{
+	margin-left: 160px ;
+	margin-top: 25px ;
+}
+
+
+#Titulo4
+{
+
+ PADDING:10PX;
+
+}
+
+.Titulo4
+{
+
+ PADDING:10PX;
+
+}
+
