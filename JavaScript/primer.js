@@ -5,7 +5,7 @@ alert('Primer hola');
 alert('Segundo hola');
 
 /*
-Prueba de 
+Prueba de
 variables
 y tipos de variables
 */
@@ -17,7 +17,7 @@ var var1 = 4;
 var var2 = 3;
 var resul = var2 + var1;
 //resul = var2 + var1; <-- No usar la palabra reservada "var" antes de la variable, tambien es valido
-var vartex = "hola jejeje"
+var vartex = "hola :3"
 // vartex = 'hola jejeje' <-- Con comillas simple tambien es valido
 
 alert(resul);
@@ -132,6 +132,6 @@ var valores = [true, 5, false, "hola","adios", 2];
 
 if (valores[3] > valores[4]) {
 
-	
-	
+
+
 };

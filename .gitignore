@@ -2,8 +2,6 @@
 *.txt
 *.[oa]
 *~
-/PHP
-PHP/!Tera/
 /JAVA
 /html5_css3_js
 *.pdf
